@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue May  3 22:55:29 2022
+# Process ID: 28004
+# Current directory: D:/LABWORK/DSD/Lab/seven_segment_display/seven_segment_display.runs/impl_1
+# Command line: vivado.exe -log seven_segment_display.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source seven_segment_display.tcl -notrace
+# Log file: D:/LABWORK/DSD/Lab/seven_segment_display/seven_segment_display.runs/impl_1/seven_segment_display.vdi
+# Journal file: D:/LABWORK/DSD/Lab/seven_segment_display/seven_segment_display.runs/impl_1\vivado.jou
+# Running On: BlackTeaIrse, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 17024 MB
+#-----------------------------------------------------------
+source seven_segment_display.tcl -notrace
